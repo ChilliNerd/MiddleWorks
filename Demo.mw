@@ -1,0 +1,31 @@
+//
+// MiddleWorks Scripting Demo
+//
+// (c) 2016 Matthew Gallant
+//
+
+WINDOWTITLE MiddleWorks Demo
+WINDOWSIZE 800x500
+WINDOWLOC 150+150
+DARKTHEME
+DISABLEWINDOWRESIZE
+OSXTITLE MiddleWorks Demo
+
+ABOUTTITLE About MiddleWorks
+ABOUTTEXT MiddleWorks v1.0: A simple interpreter between MiddleWorks Scripting and Python Tkinter.
+
+LABELXL XL Label
+LABELLARGE Large Label
+LABELMEDIUM Medium Label
+LABELREGULAR Regular Label
+LABELSMALL Small Label
+
+FIELD Test Text Field
+
+DIALOGTITLE Test Dialog
+DIALOGTEXT This is a dialog!
+BUTTONDIALOGINFO Open Info Dialog
+BUTTONDIALOGERROR Open Error Dialog
+BUTTONDIALOGWARNING Open Warning Dialog
+
+START
