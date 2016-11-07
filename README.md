@@ -1,4 +1,4 @@
-![alt text](https://github.com/ChilliNerd/MiddleWorks/blob/master/Img/icon.png "MiddleWorks Logo")
+![alt text](https://github.com/ChilliNerd/MiddleWorks/blob/master/Img/icon128.png "MiddleWorks Logo")
 
 # MiddleWorks
 MiddleWorks is an interpreter between MiddleWorks Scripting and Python Tkinter. MiddleWorks is written in pure Python.
