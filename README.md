@@ -12,7 +12,7 @@ MiddleWorks does not interpret every Tkinter command. There are currently 22 com
 ---
 
 ### License
-MiddleWorks is available under the MIT License, see [LICENSE](../blob/master/LICENSE).
+MiddleWorks is available under the MIT License, see [LICENSE](https://github.com/ChilliNerd/MiddleWorks/blob/master/LICENSE).
 
 ---
 ### Terminology and Information
